@@ -22,8 +22,11 @@ All files from original repository got updated.
 ## Installation
 
 Go to source subdirectory and run ./make.sh script. This will create a `cursors` folder.
+
 Create a new directory under `/usr/share/icons` (e.g. `NeutralCatppuccin++`) and move the `cursors` folder there.
+
 Then, update the `~/.icons/default/index.theme` file to use the newly added cursors.
+
 Alternatively, use an application like [lxappereance](https://man.archlinux.org/man/lxappearance.1.en) to set the cursor.
 
 
