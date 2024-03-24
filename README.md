@@ -1,6 +1,6 @@
 # Neutral++ Catppuccin
 
-![cursors_img](source/mocha/thumbnail)
+![cursors_img](source/mocha/thumbnail.png)
 
 ## About
 
